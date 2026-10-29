@@ -81,6 +81,10 @@ The dashboard includes:
 
 It also highlights product sales, on-time or early delivery rate, and positive review percentage.
 
+### Dashboard Preview
+
+![E-Commerce Intelligence Dashboard](screenshots/ecommerce-dashboard.png)
+
 ## Repository Structure
 
 ```text
