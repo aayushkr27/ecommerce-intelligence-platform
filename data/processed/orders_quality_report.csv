@@ -1,0 +1,7 @@
+check_name,result
+total_rows,99441
+missing_order_ids,0
+blank_order_ids,0
+duplicate_order_ids,0
+invalid_purchase_timestamps,0
+total_missing_cells,4908
